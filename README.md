@@ -1,5 +1,6 @@
 ## Colaboracion
 * Tercera semana, colaboración Óscar y Laura
+* esta es una edicion de oscar en la rama cap3
 * Página web sobre Html y buenos hábitos de programación
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
 [github.com/Vic-21](https://github.com/Vic-21/)
